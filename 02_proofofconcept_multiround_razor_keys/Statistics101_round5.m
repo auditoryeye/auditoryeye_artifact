@@ -15,8 +15,8 @@ key_names = {'`';'1';'2';'3';'4';'5';'6';'7';'8';'9';'0';'-';'=';'Key.backspace'
 
 ss = 1;
 %round = 1; unit_scale = 1000000/(441000*4);% microsecond
-round = 2; unit_scale = 1000000/(441000*4);% microsecond
-%round = 5; unit_scale = 1000000/(441000*4*10*5);% microsecond
+%round = 2; unit_scale = 1000000/(441000*4);% microsecond
+round = 5; unit_scale = 1000000/(441000*4*10*5);% microsecond
 
 
 
@@ -83,6 +83,63 @@ fclose(fileID);
 
 
 
+%%
 
+f = figure;
+f.Position = [200 250 690 560];
+
+hold on;
+subplot(2,2,1);
+bar(statistics(:,1)*unit_scale,0.9);
+
+set(gca,'Xtick',2:4:length(Cats_count));
+xline(14.5);
+xline(28.5);
+xline(41.5);
+xline(53.5);
+%xticklabels(key_names_array);
+%xtickangle(90);
+
+ylabel({'Mean of {\Delta}T1 ({\mu}s)'});
+
+subplot(2,2,2);
+bar(statistics(:,5)*unit_scale,0.9);
+set(gca,'Xtick',2:4:length(Cats_count));
+xline(14.5);
+xline(28.5);
+xline(41.5);
+xline(53.5);
+%xticklabels(key_names_array);
+
+ylabel({'Mean of {\Delta}T2 ({\mu}s)'});
+
+
+subplot(2,2,3);
+bar(statistics(:,2)*unit_scale,0.9);
+set(gca,'Xtick',2:4:length(Cats_count));
+xline(14.5);
+xline(28.5);
+xline(41.5);
+xline(53.5);
+%xticklabels(key_names_array);
+ylabel({'\sigma of {\Delta}T1 ({\mu}s)'});
+xlabel({'Key'});
+ylim([0 15]);
+disp('Average sigma of Delta T1:')
+mean(statistics(:,2)*unit_scale)
+
+subplot(2,2,4);
+bar(statistics(:,6)*unit_scale,0.9);
+set(gca,'Xtick',2:4:length(Cats_count));
+xline(14.5);
+xline(28.5);
+xline(41.5);
+xline(53.5);
+%xticklabels(key_names_array);
+ylabel({'\sigma of {\Delta}T2 ({\mu}s)'});
+xlabel({'Key'});
+ylim([0 15]);
+disp('Average sigma of Delta T2:')
+mean(statistics(:,6)*unit_scale)
 
 

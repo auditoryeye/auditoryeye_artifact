@@ -3,7 +3,6 @@
 run('YZProcessing04_tdoa.m');
 %results
 run('YZProcessing05_statistics_remoutlier.m');
-run('Statistics101_round1.m');
 %% Illustration
 %2D illustration of the keystroke localization measurements
 run('Statistics201_figure_2d_1round.m');
@@ -13,7 +12,6 @@ run('Statistics201_figure_2d_1round.m');
 run('YZProcessing06_2ndround.m');
 %results
 run('YZProcessing07_2ndroundstatistics.m');
-run('Statistics101_round2.m');
 %% Illustration
 %2D illustration of the keystroke localization measurements
 run('Statistics201_figure_2d_2round.m');
@@ -23,7 +21,6 @@ run('Statistics201_figure_2d_2round.m');
 run('YZProcessing08_3rdround.m');
 %results
 run('YZProcessing09_3rdroundstatistics.m');
-run('Statistics101_round3.m');
 
 %% C-rounds 
 run('YZProcessing10_4thround.m');
