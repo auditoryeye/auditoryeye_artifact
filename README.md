@@ -107,15 +107,15 @@ After downloading the repository, the artifact can be evaluated after navigating
 
 #### Angle Test Case 5
 
-[Data]()
+[Data](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_angle05_3mics/recording1_keys_interpolated)
 
-[Ground Truth of 59x Keystrokes]()
+[Ground Truth of 594 Keystrokes](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/04_additiontestcase_angle05_3mics/recording1_keys_interpolated/keys_groundtruth.txt)
 
-[Code]()
+[Code](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_angle05_3mics)
 
-[Localization Results of 59x Keystrokes]()
+[Localization Results of 594 Keystrokes](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/04_additiontestcase_angle05_3mics/benchmark_results/keys_tdoa2.txt)
 
-[Ground Truth / Recovery of 59x Keystrokes]()
+[Ground Truth / Recovery of 594 Keystrokes](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/04_additiontestcase_angle05_3mics/benchmark_results/keys_tdoa2_results.txt)
 
 ------
 
