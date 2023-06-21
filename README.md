@@ -124,13 +124,13 @@ After downloading the repository, the artifact can be evaluated after navigating
 
 #### 1m
 
-[Data]()
+[Data](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_distance1m/recording1_keys_interpolated)
 
-[Ground Truth of 59x Keystrokes]()
+[Ground Truth](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/04_additiontestcase_distance1m/recording1_keys_interpolated/keys_groundtruth.txt)
 
-[Code]()
+[Code](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_distance1m)
 
-[Localization Results of 59x Keystrokes]()
+[Localization Results](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/04_additiontestcase_distance1m/benchmark_results/keys_tdoa2.txt)
 
 
 #### Results with 1m attack distance (Apple Magic keyboard)
@@ -141,13 +141,13 @@ After downloading the repository, the artifact can be evaluated after navigating
 
 #### 2m
 
-[Data]()
+[Data](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_distance2m/recording1_keys_interpolated)
 
-[Ground Truth of 59x Keystrokes]()
+[Ground Truth](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/04_additiontestcase_distance2m/recording1_keys_interpolated/keys_groundtruth.txt)
 
-[Code]()
+[Code](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_distance2m)
 
-[Localization Results of 59x Keystrokes]()
+[Localization Results of 59x Keystrokes](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/04_additiontestcase_distance2m/benchmark_results/keys_tdoa2.txt)
 
 
 #### Results with 2m attack distance (Apple Magic keyboard)
