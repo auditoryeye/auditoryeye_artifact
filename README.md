@@ -48,7 +48,7 @@ After downloading the repository, the artifact can be evaluated after navigating
 
 ### Additional test cases
 
-#### Angles
+#### Angles Test Case 1
 
 
 [Data](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_angle01/recording1_keys_interpolated)
@@ -63,6 +63,8 @@ After downloading the repository, the artifact can be evaluated after navigating
 
 ------
 
+#### Angles Test Case 2
+
 [Data](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_angle02/recording1_keys_interpolated)
 
 [Ground Truth of 594 Keystrokes](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/04_additiontestcase_angle02/recording1_keys_interpolated/keys_groundtruth.txt)
@@ -75,18 +77,7 @@ After downloading the repository, the artifact can be evaluated after navigating
 
 ------
 
-[Data]()
-
-[Ground Truth of 59x Keystrokes]()
-
-[Code]()
-
-[Localization Results of 59x Keystrokes]()
-
-[Ground Truth / Recovery of 59x Keystrokes]()
-
-------
-
+#### Angles Test Case 3
 
 [Data]()
 
@@ -100,6 +91,21 @@ After downloading the repository, the artifact can be evaluated after navigating
 
 ------
 
+#### Angles Test Case 4
+
+[Data]()
+
+[Ground Truth of 59x Keystrokes]()
+
+[Code]()
+
+[Localization Results of 59x Keystrokes]()
+
+[Ground Truth / Recovery of 59x Keystrokes]()
+
+------
+
+#### Angles Test Case 5
 
 [Data]()
 
