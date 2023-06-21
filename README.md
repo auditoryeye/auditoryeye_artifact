@@ -5,7 +5,7 @@ We organize the contents of the artifact in test cases. There are 11 folders in 
 After downloading the repository, the artifact can be evaluated after navigating to one of the folders and opening the main.m file in Matlab.
 
 
-### Section 4.6
+### Section 4
 
 [Data Apple](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/01_proofofconcept_multiround_apple_keys/recording1_keys_interpolated)
 
