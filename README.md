@@ -8,6 +8,13 @@ After downloading the repository, the artifact can be evaluated after navigating
 ## Dataset
 
 
+
+### UserStudy
+
+[Data](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/03_userstudy_01/recording1_keys_interpolated)
+
+[Ground Truth of 2910 Keystrokes](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/03_userstudy_01/recording1_keys_interpolated/keys_groundtruth.txt)
+
 ## Long distance keystroke localization results
 
 ### Results with 1m attack distance (Apple Magic keyboard)
