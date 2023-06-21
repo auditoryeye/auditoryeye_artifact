@@ -29,7 +29,7 @@ After downloading the repository, the artifact can be evaluated after navigating
 
 [Ground Truth / Recovery of 595 Keystrokes](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/02_proofofconcept_multiround_razor_keys/benchmark_results/keys_tdoa4_results.txt)
 
---
+----
 
 ### User Study
 
