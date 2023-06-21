@@ -1,5 +1,8 @@
 ## Artifact: Data, Benchmark Results, and Software of Auditory Eyesight
 
+We organize the contents of the artifact in test cases. There are 11 folders in the repository. Each folder contains the data, benchmark results, and code. In each folder, there is a main.m file. The artifact can be evaluated after navigating to one of the folders and opening the main.m file in Matlab.
+
+
 ## Dataset
 
 
