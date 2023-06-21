@@ -5,9 +5,7 @@ We organize the contents of the artifact in test cases. There are 11 folders in 
 After downloading the repository, the artifact can be evaluated after navigating to one of the folders and opening the main.m file in Matlab.
 
 
-## Dataset
-
-### Proof-of-concept 
+### Section 4.6
 
 [Data](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/01_proofofconcept_multiround_apple_keys/recording1_keys_interpolated)
 
@@ -23,7 +21,7 @@ After downloading the repository, the artifact can be evaluated after navigating
 [Ground Truth / Recovery of 595 Keystrokes](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/02_proofofconcept_multiround_razor_keys/benchmark_results/keys_tdoa4_results.txt)
 
 
-### UserStudy
+### User Study
 
 [Data](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/03_userstudy_01/recording1_keys_interpolated)
 
