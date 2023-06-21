@@ -1,4 +1,4 @@
-## Data, Software, and Benchmark Results of Auditory Eyesight
+## Artifact: Data, Benchmark Results, and Software of Auditory Eyesight
 
 ## Dataset
 
