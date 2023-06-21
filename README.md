@@ -57,13 +57,23 @@ After downloading the repository, the artifact can be evaluated after navigating
 
 [Code](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_angle01)
 
-[Localization Results of 598 Keystrokes](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/04_additiontestcase_angle01/benchmark_results/keys_tdoa2.txt)
+[Localization Results of 595 Keystrokes](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/04_additiontestcase_angle01/benchmark_results/keys_tdoa2.txt)
 
-[Ground Truth / Recovery of 598 Keystrokes](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/04_additiontestcase_angle01/benchmark_results/keys_tdoa2_results.txt)
-
+[Ground Truth / Recovery of 595 Keystrokes](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/04_additiontestcase_angle01/benchmark_results/keys_tdoa2_results.txt)
 
 ------
 
+[Data]()
+
+[Ground Truth of 59x Keystrokes]()
+
+[Code]()
+
+[Localization Results of 59x Keystrokes]()
+
+[Ground Truth / Recovery of 59x Keystrokes]()
+
+------
 
 #### Long distance keystroke localization results
 
