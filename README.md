@@ -7,12 +7,12 @@ We organize the contents of the artifact in test cases. There are 11 folders in 
 After downloading the repository, the artifact can be evaluated after navigating to one of the folders and opening the main.m file in Matlab. Users can follow the Step-by-Step Instructions to start the [Parallel Pool](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#instructions-to-start-the-parallel-pool) and to [use the code](https://github.com/auditoryeye/auditoryeye_artifact/tree/main#step-by-step-instructions-to-use-the-code-in-the-first-test).
 
 ### Table of Contents
-**[Supported Environments](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#supported-environments)**<br>
-**[Instructions to Start the Parallel Pool](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#instructions-to-start-the-parallel-pool)**<br>
+**[Supported Environments](https://github.com/auditoryeye/auditoryeye_artifact/tree/main#supported-environments)**<br>
+**[Instructions to Start the Parallel Pool](https://github.com/auditoryeye/auditoryeye_artifact/tree/main#instructions-to-start-the-parallel-pool)**<br>
 **[Step-by-Step Instructions to Use the Code in the First Test](https://github.com/auditoryeye/auditoryeye_artifact/tree/main#step-by-step-instructions-to-use-the-code-in-the-first-test)**<br>
-**[Experiment Section 4](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#section-4)**<br>
-**[Experiment User Study](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#user-study)**<br>
-**[Experiment Additional Test Case](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#additional-test-cases)**<br>
+**[Experiment Section 4](https://github.com/auditoryeye/auditoryeye_artifact/tree/main#section-4)**<br>
+**[Experiment User Study](https://github.com/auditoryeye/auditoryeye_artifact/tree/main#user-study)**<br>
+**[Experiment Additional Test Case](https://github.com/auditoryeye/auditoryeye_artifact/tree/main#additional-test-cases)**<br>
 
 
 The results of each of the steps are illustrated, users may try to introduce additional signal processing and feature extraction (such as FFT, MFCC) in the future to improve the results. The data can be accessed from the following links:
