@@ -30,6 +30,8 @@ Since our implementation utilized parallel computation, it is required to start 
 
 The first step 
 
+------
+
 
 ### Section 4
 
