@@ -77,7 +77,10 @@ https://www.mathworks.com/help/parallel-computing/run-code-on-parallel-pools.htm
 #### Navigate to the ```01_proofofconcept_multiround_apple_keys``` folder:
 ![01step01](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction01.PNG)
 
+We can see that ```recording1_keys_interpolated``` does not contain computation results before running the code.
 
+#### Evaluate the command ```run('YZProcessing04_tdoa.m');```:
+![01step02](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction02.PNG)
 
 
 
