@@ -30,11 +30,12 @@ Since our implementation utilized parallel computation, it is required to start 
 
 The first step 
 
-------
-
 
 Documentation to Select Pool Size and Cluster:
+
 https://www.mathworks.com/help/parallel-computing/run-code-on-parallel-pools.html
+
+------
 
 ### Section 4
 
