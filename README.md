@@ -6,6 +6,15 @@ We organize the contents of the artifact in test cases. There are 11 folders in 
 
 After downloading the repository, the artifact can be evaluated after navigating to one of the folders and opening the main.m file in Matlab.
 
+Table of contents
+=================
+
+<!--ts-->
+   * [Supported Environments](#Supported Environments)
+   * [Usage](#usage)
+      * [STDIN](#stdin)
+<!--te-->
+
 
 ## Supported Environments
 
