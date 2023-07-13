@@ -8,7 +8,9 @@ After downloading the repository, the artifact can be evaluated after navigating
 
 ### Table of Contents
 **[Supported Environments](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#supported-environments)**<br>
-**[Instructions to Start the Parallel Pool](#Instructions to Start the Parallel Pool)**<br>
+**[Instructions to Start the Parallel Pool](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#instructions-to-start-the-parallel-pool)**<br>
+**[Step-by-Step Instructions to Use the Code in the First Test](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#instructions-to-start-the-parallel-pool)**<br>
+
 
 ## Supported Environments
 
