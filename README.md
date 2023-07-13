@@ -120,13 +120,22 @@ We can see that the results are written to the txt files in ```recording1_keys_i
 ![01step12](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction11.PNG)
 
 We can see the illustrated B-Round keystroke localization results:
-![01step05](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction12.PNG)
+![01step13](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction12.PNG)
 
 #### 10. Evaluate the command ```run('Statistics101_round2.m');```:
-![01step12](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction13.PNG)
+![01step14](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction13.PNG)
 
 We can see the illustrated mean and standard deviation statistics of B-Round results:
-![01step07](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction14.PNG)
+![01step05](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction14.PNG)
+
+
+#### 11. Evaluate the command ```run('Statistics201_figure_2d_2round.m');```:
+![01step16](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction15.PNG)
+
+We can see the 2D illustration of B-Round localization results:
+![01step17](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction16.PNG)
+
+
 
 ------
 
