@@ -116,7 +116,7 @@ We can see that the results are written to the txt files in ```recording1_keys_i
 ![01step11](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction10.PNG)
 
 
-#### 9. Evaluate the command ```run('YZProcessing08_3rdround.m');```:
+#### 9. Evaluate the command ```run('YZProcessing07_2ndroundstatistics.m');```:
 ![01step12](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction11.PNG)
 
 We can see the illustrated B-Round keystroke localization results:
