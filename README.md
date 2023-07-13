@@ -173,9 +173,8 @@ We can see that the results are written to the txt files in ```recording1_keys_i
 We can see the illustrated C-Round keystroke localization results:
 ![01step13](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction26.PNG)
 
-#### 17. Similaryly, evaluate the command ```run('YZProcessing11_4throundstatistics.m');```, and the command ```run('YZProcessing11_4throundstatistics.m');```
+#### 17. Similaryly, evaluate the commands ```run('YZProcessing12_5thround.m');``` and ```run('YZProcessing13_5throundstatistics.m');```
 
-#### 18.
 
 ------
 
