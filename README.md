@@ -12,6 +12,7 @@ After downloading the repository, the artifact can be evaluated after navigating
 **[Step-by-Step Instructions to Use the Code in the First Test](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#step-by-step-instructions-to-run-the-first-test)**<br>
 **[Experiment Section 4](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#section-4)**<br>
 **[Experiment User Study](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#user-study)**<br>
+**[Experiment Additional Test Case](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#additional-test-cases)**<br>
 
 ## Supported Environments
 
