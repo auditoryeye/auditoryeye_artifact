@@ -22,6 +22,15 @@ The code does not rely on GPU.
 
 ------
 
+
+
+## Instructions to start the parallel pool
+
+Since our implementation utilized parallel computation, it is required to start the Matlab parallel pool to run the code. 
+
+The first step 
+
+
 ### Section 4
 
 [Data Apple](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/01_proofofconcept_multiround_apple_keys/recording1_keys_interpolated)
