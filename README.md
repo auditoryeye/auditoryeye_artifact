@@ -175,7 +175,7 @@ The first step
 
 [Code](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_distance2m)
 
-[Localization Results of 59x Keystrokes](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/04_additiontestcase_distance2m/benchmark_results/keys_tdoa2.txt)
+[Localization Results of 625 Keystrokes](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/04_additiontestcase_distance2m/benchmark_results/keys_tdoa2.txt)
 
 
 #### Results with 2m attack distance (Apple Magic keyboard)
