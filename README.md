@@ -137,6 +137,13 @@ We can see the 2D illustration of B-Round localization results:
 
 
 
+#### 8. Evaluate the command ```run('YZProcessing08_3rdround.m');```:
+![01step10](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction17.PNG)
+
+We can see that the results are written to the txt files in ```recording1_keys_interpolated``` folder:
+
+![01step11](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction18.PNG)
+
 ------
 
 
