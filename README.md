@@ -30,10 +30,15 @@ Since our implementation utilized parallel computation, it is required to start 
 
 1. The first step is to click the icon in the bottom-left corner:
 
+![system spec](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/parallelpool/parallelpool01.PNG)
+
 2. The second step is to click Start Parallel Pool:
+
+![system spec](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/parallelpool/parallelpool02.PNG)
 
 3. Alternatively, the Parallel Pool can be directly started by the command ```parpool```:
 
+![system spec](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/parallelpool/parallelpool03.PNG)
 
 
 There is a default parallel pool called ```local```. It usually works without further configuration. In necessary, users may select pool size and cluster following this documentation:
