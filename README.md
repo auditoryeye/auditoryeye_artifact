@@ -4,7 +4,7 @@ Overview:
 
 We organize the contents of the artifact in test cases. There are 11 folders in the repository. Each folder contains the data, benchmark results, and code. In each folder, there is a main.m file. 
 
-After downloading the repository, the artifact can be evaluated after navigating to one of the folders and opening the main.m file in Matlab. Users can follow the Step-by-Step Instructions to start the [Parallel Pool](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#instructions-to-start-the-parallel-pool) and to [use the code](https://github.com/auditoryeye/auditoryeye_artifact/tree/main#step-by-step-instructions-to-use-the-code-in-the-first-test). 
+After downloading the repository, the artifact can be evaluated after navigating to one of the folders and opening the main.m file in Matlab. Users can follow the Step-by-Step Instructions to start the [Parallel Pool](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#instructions-to-start-the-parallel-pool) and to [use the code](https://github.com/auditoryeye/auditoryeye_artifact/tree/main#step-by-step-instructions-to-use-the-code-in-the-first-test). The results of each of the steps are illustrated, users may try to introduce additional signal processing and feature extraction in the future to improve the performance.
 
 ### Table of Contents
 **[Supported Environments](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/README.md#supported-environments)**<br>
