@@ -28,10 +28,15 @@ The code does not rely on GPU.
 
 Since our implementation utilized parallel computation, it is required to start the Matlab parallel pool to run the code. 
 
-The first step 
+1. The first step is to click the icon in the bottom-left corner:
+
+2. The second step is to click Start Parallel Pool:
+
+3. Alternatively, the Parallel Pool can be directly started by the command ```parpool```:
 
 
-Documentation to Select Pool Size and Cluster:
+
+There is a default parallel pool called ```local```. It usually works without further configuration. In necessary, users may select pool size and cluster following this documentation:
 
 https://www.mathworks.com/help/parallel-computing/run-code-on-parallel-pools.html
 
