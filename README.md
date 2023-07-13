@@ -5,7 +5,7 @@ We organize the contents of the artifact in test cases. There are 11 folders in 
 After downloading the repository, the artifact can be evaluated after navigating to one of the folders and opening the main.m file in Matlab.
 
 
-## Supported environments
+## Supported Environments
 
 
 The supported environment is Matlab (2020b or newer), which is compatible with Windows, Linux, and Mac. The system compatibility document can be found at:
@@ -24,7 +24,7 @@ The code does not rely on GPU.
 
 
 
-## Instructions to start the parallel pool
+## Instructions to Start the Parallel Pool
 
 Since our implementation utilized parallel computation, it is required to start the Matlab parallel pool to run the code. 
 
