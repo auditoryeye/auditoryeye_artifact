@@ -91,7 +91,7 @@ We can see that ```recording1_keys_interpolated``` folder does not contain compu
 #### 4. Evaluate the command ```run('YZProcessing05_statistics_remoutlier.m');```:
 ![01step04](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction04a.PNG)
 
-#### 5. We can see the illustrated keystroke localization results:
+#### 5. We can see the illustrated I-Round keystroke localization results:
 ![01step05](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction04.PNG)
 
 
