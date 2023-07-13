@@ -101,6 +101,8 @@ We can see that ```recording1_keys_interpolated``` folder does not contain compu
 We can see the illustrated statistics of I-Round results:
 ![01step07](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction06.PNG)
 
+#### 7. Evaluate the command ```run('Statistics201_figure_2d_1round.m');```:
+![01step08](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction07.PNG)
 
 ------
 
