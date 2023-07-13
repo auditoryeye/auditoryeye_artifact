@@ -5,6 +5,20 @@ We organize the contents of the artifact in test cases. There are 11 folders in 
 After downloading the repository, the artifact can be evaluated after navigating to one of the folders and opening the main.m file in Matlab.
 
 
+## Supported environments
+
+
+The supported environment is Matlab (2020b or newer), which is compatible with Windows, Linux, and Mac. The system compatibility document can be found at:
+
+https://www.mathworks.com/support/requirements/previous-releases.html
+
+We utilized the parallel computing toolbox on Matlab to speed up the processing. We recommend using at least 32-GB RAM and 12 CPU Cores to support parallel computing. The detailed requirements of the Matlab parallel computing toolbox are available at:
+https://www.mathworks.com/support/requirements/parallel-computing-toolbox.html
+
+We used 32-GB RAM and 2x E5-2683 v3 CPUs. The system is Windows 10 Pro (version 21H2). We attached a screenshot of the system specification.
+
+The code does not rely on GPU. 
+
 ### Section 4
 
 [Data Apple](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/01_proofofconcept_multiround_apple_keys/recording1_keys_interpolated)
