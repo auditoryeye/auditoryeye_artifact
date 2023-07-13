@@ -16,6 +16,7 @@ We utilized the parallel computing toolbox on Matlab to speed up the processing.
 https://www.mathworks.com/support/requirements/parallel-computing-toolbox.html
 
 We used 32-GB RAM and 2x E5-2683 v3 CPUs. The system is Windows 10 Pro (version 21H2). We attached a screenshot of the system specification.
+![system spec](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/systemspec.PNG)
 
 The code does not rely on GPU. 
 
