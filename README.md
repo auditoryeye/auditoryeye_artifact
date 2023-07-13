@@ -85,7 +85,15 @@ We can see that ```recording1_keys_interpolated``` folder does not contain compu
 
 
 #### 3. We can see that the results are written to the txt files in ```recording1_keys_interpolated``` folder:
-![01step02](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction03.PNG)
+![01step03](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction03.PNG)
+
+
+#### 4. Evaluate the command ```run('YZProcessing05_statistics_remoutlier.m');```:
+![01step04](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction04a.PNG)
+
+#### 5. We can see that the illustrated keystroke localization results:
+![01step05](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction04.PNG)
+
 
 ------
 
