@@ -176,6 +176,51 @@ We can see the illustrated C-Round keystroke localization results:
 #### 17. Similaryly, evaluate the commands ```run('YZProcessing12_5thround.m');``` and ```run('YZProcessing13_5throundstatistics.m');```
 
 
+
+
+
+
+
+
+#### 10. Evaluate the command ```run('Statistics101_round5.m');```:
+![01step14](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction31.PNG)
+
+We can see the illustrated mean and standard deviation statistics of Final-Round results:
+![01step05](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction32.PNG)
+
+
+#### 11. Evaluate the command ```run('Statistics201_figure_2d_5round.m');```:
+![01step16](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction33.PNG)
+
+We can see the 2D illustration of Final-Round localization results:
+![01step17](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction34.PNG)
+
+
+
+#### 11. Evaluate the command ```run('Statistics_accuracy_calculation.m');```:
+![01step16](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction35.PNG)
+
+We can observe accuracies:
+![01step17](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction36.PNG)
+
+As shown above, the results are written into the ```keys_tdoa4_results.txt``` and ```keys_tdoa4_results_accuracy.txt``` files. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ------
 
 
