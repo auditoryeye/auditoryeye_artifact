@@ -74,6 +74,8 @@ https://www.mathworks.com/help/parallel-computing/run-code-on-parallel-pools.htm
 ## Step-by-Step Instructions to Use the Code in the First Test
 
 
+#### Navigate to the ```01_proofofconcept_multiround_apple_keys``` folder:
+![01step01](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction01.PNG)
 
 
 
