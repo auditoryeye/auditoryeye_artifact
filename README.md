@@ -15,7 +15,7 @@ After downloading the repository, the artifact can be evaluated after navigating
 **[Experiment Additional Test Case](https://github.com/auditoryeye/auditoryeye_artifact/tree/main#additional-test-cases)**<br>
 
 
-The results of each of the steps are illustrated, users may try to introduce additional signal processing and feature extraction (such as FFT, MFCC) in the future to improve the results. The data can be accessed from the following links:
+The results of each of the steps are illustrated. Users can try to introduce additional signal processing and feature extraction (such as FFT, MFCC) in the future to improve the results. The data can be accessed from the following links:
 ### Dataset:
 
 **[Data Apple](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/01_proofofconcept_multiround_apple_keys/recording1_keys_interpolated)**<br>
