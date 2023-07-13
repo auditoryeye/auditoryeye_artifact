@@ -98,7 +98,7 @@ We can see that ```recording1_keys_interpolated``` folder does not contain compu
 #### 6. Evaluate the command ```run('YZProcessing05_statistics_remoutlier.m');```:
 ![01step06](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction05.PNG)
 
-We can see the illustrated statistics of I-Round results:
+We can see the illustrated mean and standard deviation statistics of I-Round results:
 ![01step07](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction06.PNG)
 
 #### 7. Evaluate the command ```run('Statistics201_figure_2d_1round.m');```:
