@@ -85,7 +85,7 @@ We can see that ```recording1_keys_interpolated``` folder does not contain compu
 
 
 #### 3. We can see that the results are written to the txt files in ```recording1_keys_interpolated``` folder:
-![01step02](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction02.PNG)
+![01step02](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/1sttestinstruction/1stinstruction03.PNG)
 
 ------
 
