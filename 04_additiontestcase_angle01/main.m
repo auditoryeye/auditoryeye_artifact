@@ -15,9 +15,5 @@ run('YZProcessing08_3rdround.m');
 %results
 run('YZProcessing09_3rdroundstatistics.m');
 
-%% statistics
-run('Statistics101_round5.m');
-%2D illustration of the final-round keystroke localization measurements
-run('Statistics201_figure_2d_5round.m');
 %%
 run('Statistics_accuracy_calculation');
