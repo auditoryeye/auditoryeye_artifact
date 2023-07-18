@@ -36,7 +36,7 @@ The results of each of the steps are illustrated. Users can try to introduce add
 | Experiment | Disk Size | Computation time |
 | :---         |     :---:      |          ---: |
 | [E1](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/01_proofofconcept_multiround_apple_keys)   | [1.77 GB](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E1_apple_space.PNG)    |  [255.688 s](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E1_apple_compute_time.pdf)   |
-| E2   | [1.76 GB](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E2_razor_space.PNG)    |  [260.267 s](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E2_razor_compute_time.pdf)   |
+| [E2](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/02_proofofconcept_multiround_razor_keys)   | [1.76 GB](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E2_razor_space.PNG)    |  [260.267 s](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E2_razor_compute_time.pdf)   |
 
 [Screenshots and Reports](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/time_and_space)
 
