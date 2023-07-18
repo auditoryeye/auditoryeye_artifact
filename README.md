@@ -31,7 +31,7 @@ The results of each of the steps are illustrated. Users can try to introduce add
 **[NLOS laptop](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_nloslaptop/recording1_keys_interpolated)**<br>
 
 
-### Required minimum disk size and computation time report (with dual E5-2683 V3 CPUs and 32-GB RAM):
+### Required minimum disk size and Matlab computation time report (with dual E5-2683 V3 CPUs and 32-GB RAM):
 
 | Experiment | Disk Size | Computation time |
 | :---         |     :---:      |          ---: |
