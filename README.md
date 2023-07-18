@@ -33,12 +33,11 @@ The results of each of the steps are illustrated. Users can try to introduce add
 
 ### Required minimum disk size and reference computation time (with dual E5-2683 V3 CPUs and 32-GB RAM):
 
-Required minimum disk space: [1.77 GB](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E1_apple_space.PNG). Reference computation time with dual E5-2683 V3 CPUs and 32-GB RAM): [255.688 s](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E1_apple_compute_time.pdf)
-
-| Experiment | Disck Size | Computation time |
+| Experiment | Disk Size | Computation time |
 | :---         |     :---:      |          ---: |
 | E1   | [1.77 GB](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E1_apple_space.PNG)    |  [255.688 s](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E1_apple_compute_time.pdf)   |
-| git diff     | git diff       | git diff      |
+| E2   | [1.76 GB](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E2_razor_space.PNG)    |  [260.267 s](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E2_razor_compute_time.pdf)   |
+
 
 
 
