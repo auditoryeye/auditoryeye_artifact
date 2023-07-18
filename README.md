@@ -45,7 +45,7 @@ The results of each of the steps are illustrated. Users can try to introduce add
 | [E8Angle05](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_angle05_3mics)   | [1.75 GB](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E8_space.PNG)    |  [116.372 s](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E8_compute_time.PNG)   |
 | [E9Distance1m](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_distance1m)   | [601 MB](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E9_space.PNG)    |  [59.129 s](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E9_compute_time.PNG)   |
 | [E10Distance2m](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_distance2m)   | [632 MB](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E10_space.PNG)    |  [57.629 s](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E10_compute_time.PNG)   |
-| [E11NLOSLaptop](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_nloslaptop)   | [. GB]()    |  [. s]()   |
+| [E11NLOSLaptop](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_nloslaptop)   | [608 MB]()    |  [125.927 s]()   |
 
 [Screenshots and Matlab Performance Reports](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/time_and_space)
 
