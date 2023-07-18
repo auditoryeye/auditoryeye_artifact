@@ -37,7 +37,7 @@ Experiment | Alternative Download Link |  Main File | Disk Size | Computation ti
 ##### Downloading
 A user may directly download the entire repository: [Link](https://github.com/auditoryeye/auditoryeye_artifact/archive/refs/heads/main.zip) 
 
-However, due to the size of dataset, the downloaded zip file might be truncated by Github. If this happens, users can use tools such as , , , to download the specific directory. We provide the links in the table to do so. 
+However, due to the size of dataset, the downloaded zip file might be truncated by Github. For instance, the subfolder E8Angle05 may not exist in the downloaded file. If this happens, users can use tools such as , , , to download the specific directory.  We also provided alternative links in the above table to download the specific directory. 
 
 ##### Use
 
