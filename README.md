@@ -30,6 +30,18 @@ The results of each of the steps are illustrated. Users can try to introduce add
 **[Data D02](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_distance2m/recording1_keys_interpolated)**<br>
 **[NLOS laptop](https://github.com/auditoryeye/auditoryeye_artifact/tree/main/04_additiontestcase_nloslaptop/recording1_keys_interpolated)**<br>
 
+
+### Required minimum disk size and reference computation time (with dual E5-2683 V3 CPUs and 32-GB RAM):
+
+Required minimum disk space: [1.77 GB](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E1_apple_space.PNG). Reference computation time with dual E5-2683 V3 CPUs and 32-GB RAM): [255.688 s](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E1_apple_compute_time.pdf)
+
+| Experiment | Disck Size | Computation time |
+| :---         |     :---:      |          ---: |
+| E1   | [1.77 GB](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E1_apple_space.PNG)    |  [255.688 s](https://github.com/auditoryeye/auditoryeye_artifact/blob/main/time_and_space/E1_apple_compute_time.pdf)   |
+| git diff     | git diff       | git diff      |
+
+
+
 ## Supported Environments
 
 
