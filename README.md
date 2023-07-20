@@ -38,7 +38,9 @@ Experiment | Alternative Download Link |  Main File | Disk Size | Computation ti
 
 
 
-Due to the size of dataset, the downloaded zip file might be truncated by Github. Here is an alternative, faster download link: https://www.dropbox.com/sh/g937jy4gq9z3lnk/AADrIOWvgyyEDa3ZfMb54AHma?dl=0
+Github has limitations on the file size and number downloaded per day. The downloaded zip file might be truncated by Github. 
+
+Here is a quick, more reliable download link: https://www.dropbox.com/sh/g937jy4gq9z3lnk/AADrIOWvgyyEDa3ZfMb54AHma?dl=0
 
 Users may also use tools such as [download-directory](https://download-directory.github.io/), [GitZip](http://kinolien.github.io/gitzip/), [DownGit](https://minhaskamal.github.io/DownGit/#/home), to download the specific directory.  
 
