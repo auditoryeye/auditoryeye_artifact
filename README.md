@@ -16,7 +16,7 @@ After [downloading](), the artifact can be evaluated after navigating to one of 
 
 
 The results of each of the steps are illustrated. Users can try to introduce additional signal processing and feature extraction (such as FFT, MFCC) in the future to improve the results. The data and code can be accessed from the following links:
-### Links, Required minimum disk size, and Matlab computation time report (with dual E5-2683 V3 CPUs and 32-GB RAM):
+### Project download links, Required minimum disk size, and Matlab computation time report (with dual E5-2683 V3 CPUs and 32-GB RAM):
 
 Experiment | Quick Download Link |  Main File | Disk Size | Computation time | Dataset
 | :---         | :---         | :---         |     :---:      |          ---: |     :---:      |
