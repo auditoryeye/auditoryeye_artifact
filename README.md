@@ -38,7 +38,7 @@ Experiment | Quick Download Link |  Main File | Disk Size | Computation time | D
 
 
 
-Github may limit the file size and number downloaded per day. The downloaded zip file might be truncated by Github. 
+Github may limit the file size and number downloaded per day. The zip file might also be truncated by Github. 
 
 Here is a quick, more reliable __download link__: https://www.dropbox.com/sh/g937jy4gq9z3lnk/AADrIOWvgyyEDa3ZfMb54AHma?dl=0
 
