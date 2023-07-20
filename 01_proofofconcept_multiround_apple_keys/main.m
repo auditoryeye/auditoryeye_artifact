@@ -70,6 +70,7 @@ run('YZProcessing13_5throundstatistics.m');
 
 %% statistics
 % This line calculates the statistics of Final-round results
+% The reproduced results is included in Table 2 and described in the paper
 run('Statistics101_round5.m');
 % This line generates the 2D illustration of the keystroke localization measurements
 % The reproduced result is included and described in paper's Figure 28  
