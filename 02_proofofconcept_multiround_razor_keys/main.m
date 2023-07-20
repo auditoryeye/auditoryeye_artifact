@@ -66,5 +66,6 @@ run('Statistics201_figure_2d_5round.m');
 % This line calculates the accuracy of recovering the keystroke inputs
 % The reproduced result is included in Table 1 and described in the paper 
 % The detailed results are stored in the file: recording1_keys_interpolated/keys_tdoa4_results.txt 
-% More than 90% of the keystrokes are correctly identified in the first attemp
+% More than 90% of the keystrokes are correctly identified in the first
+% attempt
 run('Statistics_accuracy_calculation');
