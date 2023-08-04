@@ -1,4 +1,4 @@
-# Paper reference:
+## Paper reference:
 ```
 @inproceedings{tu2023auditory,
   title={Auditory Eyesight: Demystifying $\mu$s-Precision Keystroke Tracking Attacks on Unconstrained Keyboard Inputs},
