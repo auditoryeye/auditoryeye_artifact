@@ -1,3 +1,13 @@
+# Paper reference:
+```
+@inproceedings{tu2023auditory,
+  title={Auditory Eyesight: Demystifying $\mu$s-Precision Keystroke Tracking Attacks on Unconstrained Keyboard Inputs},
+  author={Tu, Yazhou and Shan, Liqun and Hossen, Md Imran and Rampazzi, Sara and Butler, Kevin and Hei, Xiali}
+  booktitle={Proceedings of the 2023 32nd USENIX Security Symposium, Anaheim, CA, USA},
+  year={2023}
+}
+```
+
 ## Artifact: Data, Benchmark Results, and Software of Auditory Eyesight
 
 Overview:
