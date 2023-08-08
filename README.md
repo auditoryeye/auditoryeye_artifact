@@ -10,6 +10,8 @@
 
 ## Artifact: Data, Benchmark Results, and Software of Auditory Eyesight
 
+<p><a href="https://github.com/auditoryeye/auditoryeyesight/blob/main/paper/tu2023auditory.pdf"><img alt="AuditoryEye Thumbnail" align="right" width="320" src="https://github.com/auditoryeye/auditoryeyesight/blob/main/paper/tu2023auditory.JPG"></a></p>
+
 Overview:
 
 We organize the contents of the artifact in test cases. There are 11 folders in the repository. Each folder contains the data, benchmark results, and code. In each folder, there is a main.m file. 
