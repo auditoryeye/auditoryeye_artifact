@@ -1,3 +1,13 @@
-The dataset, benchmark results, and code are free to be used and modified for research and education purposes.
+The dataset, benchmark results, and code are free to be used for research and education purposes. If you make modifications and share the code, please acknowledge the original source:
+
+@inproceedings{tu2023auditory,
+  title={Auditory Eyesight: Demystifying $\mu$s-Precision Keystroke Tracking Attacks on Unconstrained Keyboard Inputs},
+  author={Tu, Yazhou and Shan, Liqun and Hossen, Md Imran and Rampazzi, Sara and Butler, Kevin and Hei, Xiali},
+  booktitle={32nd USENIX Security Symposium (USENIX Security 23)},
+  year={2023}
+}
+
+https://github.com/auditoryeye/auditoryeye_artifact
+
 
 For commercial purposes, explicit permission from the author (tuyazhou2016@gmail.com) is required.
