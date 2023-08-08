@@ -1,4 +1,4 @@
-The dataset, benchmark results, and code are free to be used for research and education purposes. If you employ, modify, or distribute the data, benchmark results, and code, please acknowledge the original source:
+The dataset, benchmark results, and code are free for research and education purposes. If you use, modify, or distribute the data, benchmark results, and code, please acknowledge the original source:
 
 @inproceedings{tu2023auditory,
   title={Auditory Eyesight: Demystifying $\mu$s-Precision Keystroke Tracking Attacks on Unconstrained Keyboard Inputs},
@@ -10,4 +10,4 @@ The dataset, benchmark results, and code are free to be used for research and ed
 https://github.com/auditoryeye/auditoryeye_artifact
 
 
-For commercial purposes, it is required to obtain explicit authorization.
+For commercial purposes, explicit permission is required.
