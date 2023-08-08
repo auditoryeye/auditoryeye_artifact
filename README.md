@@ -8,6 +8,8 @@
 }
 ```
 
+<p><a href="https://github.com/auditoryeye/auditoryeyesight/blob/main/paper/tu2023auditory.pdf"><img alt="AuditoryEye Thumbnail" align="right" width="320" src="https://github.com/auditoryeye/auditoryeyesight/blob/main/paper/tu2023auditory.JPG"></a></p>
+
 ## Artifact: Data, Benchmark Results, and Software of Auditory Eyesight
 
 <p><a href="https://github.com/auditoryeye/auditoryeyesight/blob/main/paper/tu2023auditory.pdf"><img alt="AuditoryEye Thumbnail" align="right" width="320" src="https://github.com/auditoryeye/auditoryeyesight/blob/main/paper/tu2023auditory.JPG"></a></p>
