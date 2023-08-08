@@ -19,7 +19,7 @@ Overview:
 There is a lack of an existing reference study of acoustic side-channel keystroke attacks with publicly available datasets. 
 To address this issue, we publish the dataset, benchmark results, and the software of Auditory Eyesight to reproduce the results.
 
-This artifact is suitable for various research purposes. The dataset can be used to benchmark different acoustic-channel keyboard attack methods in the future. Future works can investigate integrating additional signal processing or other extracted features to improve the attack performance.
+This artifact is suitable for various research purposes. The dataset can be used to benchmark different acoustic-channel keyboard attack methods in the future. For example, future works can investigate integrating additional signal processing or other extracted features to improve the attack performance.
 
 
 We organize the contents of the artifact in test cases. There are 11 folders in the repository. Each folder contains the data, benchmark results, and code. In each folder, there is a main.m file. 
