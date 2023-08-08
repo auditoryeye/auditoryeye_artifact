@@ -15,6 +15,13 @@
 
 Overview:
 
+
+There is a lack of an existing reference study of acoustic side-channel keystroke attacks with publicly available datasets. 
+To address this issue, we publish the dataset, benchmark results, and the software of Auditory Eyesight to reproduce the results.
+
+This artifact is suitable for various research purposes. The dataset can be used to benchmark different acoustic-channel keyboard attack methods in the future. Future works can investigate integrating additional signal processing or other extracted features to improve the attack performance.
+
+
 We organize the contents of the artifact in test cases. There are 11 folders in the repository. Each folder contains the data, benchmark results, and code. In each folder, there is a main.m file. 
 
 After [downloading](https://github.com/auditoryeye/auditoryeye_artifact#downloading), the artifact can be evaluated after navigating to one of the folders and opening the main.m file in Matlab. Users can follow the Step-by-Step Instructions to start the [Parallel Pool](https://github.com/auditoryeye/auditoryeye_artifact/tree/main#instructions-to-start-the-parallel-pool) and then [use the code](https://github.com/auditoryeye/auditoryeye_artifact/tree/main#step-by-step-instructions-to-use-the-code-in-the-first-test).
