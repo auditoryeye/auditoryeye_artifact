@@ -50,7 +50,7 @@ Experiment | Quick Project Download Link |  Project Main File | Disk Size | Comp
 
 Github may limit the file size and number downloaded per day. The zip file might also be truncated by Github because of this limit. 
 
-Here is a quick, more [__reliable download link__](https://www.dropbox.com/sh/g937jy4gq9z3lnk/AADrIOWvgyyEDa3ZfMb54AHma?dl=0)
+Here is a quick, [__reliable download link__](https://www.dropbox.com/sh/g937jy4gq9z3lnk/AADrIOWvgyyEDa3ZfMb54AHma?dl=0)
 
 Users may also use tools such as [download-directory](https://download-directory.github.io/), [GitZip](http://kinolien.github.io/gitzip/), [DownGit](https://minhaskamal.github.io/DownGit/#/home), to download the specific directory.  
 
